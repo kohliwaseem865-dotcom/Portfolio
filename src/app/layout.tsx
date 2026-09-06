@@ -59,6 +59,11 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  verification: {
+    // Google Search Console site verification. Keep this — removing it
+    // un-verifies the site in Search Console.
+    google: "02nCHwdX9KfBVTBtrl0WLLNChl6WASr-W3OBIEDTipY",
+  },
   category: "technology",
 };
 
