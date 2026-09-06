@@ -22,7 +22,7 @@ export const site = {
     description:
       "Waseem Kohli is a Flutter developer, AI builder and creative technologist crafting premium mobile apps, AI-powered products and interactive web experiences.",
     // Change to your deployed domain for correct canonical + OG URLs.
-    url: "https://waseemkohli.dev",
+    url: "https://portfolio-eight-bice-82.vercel.app",
     ogImage: "/og.png",
     keywords: [
       "Waseem Kohli",
